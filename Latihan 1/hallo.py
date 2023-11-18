@@ -1,1 +1,1 @@
-print('Hallo');
+print("This line will be printed.")
